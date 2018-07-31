@@ -1,0 +1,4 @@
+C:\Users\GP62-7RE\documents\visual studio 2015\Projects\DoubleTrackBar\DoubleTrackBar\bin\Debug\DoubleTrackBar.dll
+C:\Users\GP62-7RE\documents\visual studio 2015\Projects\DoubleTrackBar\DoubleTrackBar\bin\Debug\DoubleTrackBar.pdb
+C:\Users\GP62-7RE\documents\visual studio 2015\Projects\DoubleTrackBar\DoubleTrackBar\obj\Debug\DoubleTrackBar.dll
+C:\Users\GP62-7RE\documents\visual studio 2015\Projects\DoubleTrackBar\DoubleTrackBar\obj\Debug\DoubleTrackBar.pdb
